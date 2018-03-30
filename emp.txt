@@ -1,0 +1,3 @@
+id,name,gender,salary
+1,raman,male,32222
+2,chahat,female,3333
